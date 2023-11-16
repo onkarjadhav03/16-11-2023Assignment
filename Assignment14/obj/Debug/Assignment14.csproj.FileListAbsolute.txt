@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Assignment14\Assignment14\obj\Debug\Assignment14.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Assignment14\Assignment14\obj\Debug\Assignment14.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Assignment14\Assignment14\bin\Debug\Assignment14.exe.config
+D:\mphasis\dotnet\Assignment14\Assignment14\bin\Debug\Assignment14.exe
+D:\mphasis\dotnet\Assignment14\Assignment14\bin\Debug\Assignment14.pdb
+D:\mphasis\dotnet\Assignment14\Assignment14\obj\Debug\Assignment14.exe
+D:\mphasis\dotnet\Assignment14\Assignment14\obj\Debug\Assignment14.pdb
